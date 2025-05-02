@@ -39,7 +39,7 @@ python main.py
 ```
 Ao final, será gerado o arquivo gabriel_top10.json com os resultados.
 
-🧠 O Que o Script Faz
+# 🧠 O Que o Script Faz
 Obtém todos os municípios do estado de São Paulo via API.
 
 Para cada município:
