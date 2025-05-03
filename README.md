@@ -8,7 +8,7 @@ Este projeto consulta a [API pública do IBGE](https://servicodados.ibge.gov.br/
 
 - [Python 3](https://www.python.org/)
 - [Requests](https://pypi.org/project/requests/) (biblioteca para requisições HTTP)
-- API REST pública do IBGE
+- [API REST pública do IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados/SP/municipios)
 
 ---
 
